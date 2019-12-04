@@ -219,6 +219,9 @@ p a:hover{
   align-self: center;
 }
 
+a:hover #announcement{
+  opacity: 50%;
+}
 #animation{
   position: absolute;
 }
